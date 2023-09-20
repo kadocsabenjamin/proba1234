@@ -57,6 +57,7 @@ Vanyek Mate
 a
 <<<<<<< HEAD
 Karman Szilard
+Kovacs David Balazs
 =======
 >>>>>>> 93b77902bb1e29ce3037b78ceb2ccaba1c14e0b1
 >>>>>>> 8695302b8a1aefb1b9b9bcf4d4a27ee7f4cb1e9a
