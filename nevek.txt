@@ -1,2 +1,55 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
 
+<<<<<<< HEAD
 Nagy Attila
+=======
+
+
+
+Balatoni Kitti
+
+=======
+aaaa
+aaaa
+aaaa
+aaaa
+aaaa
+aaaa
+aaaa
+aaaa
+Rózsa Alexandra
+aaaa
+aaaa
+aaaa
+aaaa
+>>>>>>> fdc1e310012480e8641dfdc3b1e5e5cc16e1daf4
+=======
+aaa
+aaa
+aaa
+aaa
+aaa
+aaa
+aaa
+aaa
+aaa
+Dori Krisztian
+aaa
+aaa
+aaa
+a
+a
+aa
+a
+a
+a
+a
+a
+a
+a
+a
+Vanyek Mate
+a
+>>>>>>> 93b77902bb1e29ce3037b78ceb2ccaba1c14e0b1
+>>>>>>> 8695302b8a1aefb1b9b9bcf4d4a27ee7f4cb1e9a
