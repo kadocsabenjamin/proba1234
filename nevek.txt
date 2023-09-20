@@ -39,9 +39,6 @@ aaa
 aaa
 aaa
 Dori Krisztian
-aaa
-aaa
-aaa
 a
 a
 aa
@@ -52,7 +49,7 @@ a
 a
 a
 a
-a
+Harasztosi Balazs
 Vanyek Mate
 a
 <<<<<<< HEAD
