@@ -1,12 +1,11 @@
 <<<<<<< HEAD
-<<<<<<< HEAD
 
 <<<<<<< HEAD
 <<<<<<< HEAD
 Nagy Attila
 =======
 Karman Stilard
-
+Szarvas Márton
 Steigerwald Eszter
 Balatoni Kitti
 
@@ -56,17 +55,3 @@ Karman Szilard
 >>>>>>> 8695302b8a1aefb1b9b9bcf4d4a27ee7f4cb1e9a
 >>>>>>> 3883defa20318c8c228127f22c7d0a92e5acf1d2
 >>>>>>> 9cde110e52163232d3e55aa2e2cdd01fe3826157
-=======
-
-
-
-
-
-
-
-Szarvas Márton
-
-
-
-
->>>>>>> szarvasmarton
