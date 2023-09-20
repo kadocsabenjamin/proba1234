@@ -1,3 +1,30 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+
+<<<<<<< HEAD
+Nagy Attila
+=======
+Karman Stilard
+
+Steigerwald Eszter
+Balatoni Kitti
+
+=======
+aaaa
+aaaa
+aaaa
+aaaa
+aaaa
+aaaa
+aaaa
+aaaa
+Rózsa Alexandra
+aaaa
+aaaa
+aaaa
+aaaa
+>>>>>>> fdc1e310012480e8641dfdc3b1e5e5cc16e1daf4
+=======
 aaa
 aaa
 aaa
@@ -7,7 +34,24 @@ aaa
 aaa
 aaa
 aaa
-aaa
-aaa
-aaa
-Harasztosi Balázs
+Dori Krisztian
+a
+a
+aa
+a
+a
+a
+a
+a
+a
+a
+Harasztosi Balazs
+Vanyek Mate
+a
+<<<<<<< HEAD
+Karman Szilard
+=======
+>>>>>>> 93b77902bb1e29ce3037b78ceb2ccaba1c14e0b1
+>>>>>>> 8695302b8a1aefb1b9b9bcf4d4a27ee7f4cb1e9a
+>>>>>>> 3883defa20318c8c228127f22c7d0a92e5acf1d2
+>>>>>>> 9cde110e52163232d3e55aa2e2cdd01fe3826157
